@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is DC1C-1BA7
+
+ Directory of C:\Users\212778189\Desktop\MyProject
+
+12-09-2019  12:17    <DIR>          .
+12-09-2019  12:17    <DIR>          ..
+12-09-2019  12:17                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  16,922,513,408 bytes free
